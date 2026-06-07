@@ -116,11 +116,33 @@ handle these cases better, at the cost of more implementation complexity.
 **Actual chunk count produced across all 8 rule books:**
 
 ```
-[your answer here]
+149 chunks total. Per rulebook:
+  Catan          18      Pandemic         18
+  Clue           21      Risk             20
+  Codenames      16      Ticket to Ride   16
+  Monopoly       23      Uno              17
+
+That averages ~18.6 chunks/book, with a tight spread (16-23). The count is
+deterministic — re-ingesting the same docs produces exactly 149 every time,
+as expected from a fixed-size character window. A scan confirmed 0 chunks
+contain HTML/markup, so the source .txt files are clean plain text.
 ```
 
 **One thing that surprised you or didn't match your expectations:**
 
 ```
-[your answer here]
+How indifferent the splitter is to word and sentence boundaries — and how
+little that hurt retrieval. Printed chunks frequently start mid-sentence, and
+some start mid-WORD (e.g. one Catan chunk begins "ding cost cards, 2 special
+cards..." — the front of "building" got cut off on the previous boundary).
+I expected those ragged edges to noticeably degrade search quality. They
+didn't: the embedding model still matched these chunks correctly to relevant
+queries, because semantic meaning survives a clipped first/last word.
+
+A second, subtler surprise: dropping short tail chunks (< min_length) loses
+NO information. Because min_length (50) equals the overlap (50), any tail too
+short to keep is already fully contained in the previous chunk's overlap
+region. So the min-length filter only ever discards text that's already
+duplicated elsewhere — a clean property I didn't anticipate when reading the
+spec, only noticed when tracing the window arithmetic.
 ```
