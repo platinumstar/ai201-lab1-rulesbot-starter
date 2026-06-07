@@ -36,7 +36,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Open `.env` and replace `your_key_here` with your key from [console.groq.com](https://console.groq.com). No credit card required.
+Open `.env` and replace the placeholder value with your key from [console.groq.com](https://console.groq.com). No credit card required.
 
 ### 5. Run the app
 
