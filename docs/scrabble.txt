@@ -1,0 +1,46 @@
+SCRABBLE — OFFICIAL RULES SUMMARY
+
+OVERVIEW
+Scrabble is a word game for 2–4 players. Players take turns forming words on a 15×15 grid using letter tiles drawn from a bag, scoring points based on the letters used and the squares they land on. The game ends when the tile bag is empty and one player has played all their tiles, or when all players pass or exchange tiles consecutively. The player with the highest total score wins.
+
+COMPONENTS
+1 game board (15×15 grid with premium scoring squares), 100 letter tiles (including 2 blank tiles), 4 tile racks, 1 tile bag, and a score pad.
+
+LETTER DISTRIBUTION AND POINT VALUES
+The 100 tiles include: A(9)×1pt, B(2)×3pt, C(2)×3pt, D(4)×2pt, E(12)×1pt, F(2)×4pt, G(3)×2pt, H(2)×4pt, I(9)×1pt, J(1)×8pt, K(1)×5pt, L(4)×1pt, M(2)×3pt, N(6)×1pt, O(8)×1pt, P(2)×3pt, Q(1)×10pt, R(6)×1pt, S(4)×1pt, T(6)×1pt, U(4)×1pt, V(2)×4pt, W(2)×4pt, X(1)×8pt, Y(2)×4pt, Z(1)×10pt, Blank(2)×0pt.
+
+SETUP
+Place all tiles face-down in the bag and mix thoroughly. Each player draws one tile — the player whose tile is closest to the beginning of the alphabet goes first (blank tiles beat any letter). Return these tiles to the bag and mix again. Each player draws 7 tiles and places them on their rack without showing other players.
+
+THE BOARD
+The board has four types of premium squares: Double Letter Score (DL) — doubles the value of the single tile placed on it; Triple Letter Score (TL) — triples the value of the single tile; Double Word Score (DW) — doubles the total value of the word; Triple Word Score (TW) — triples the total value of the word. The center square (marked with a star) counts as a Double Word Score and is where the first word must be placed.
+
+FIRST TURN
+The first player must place a word of at least 2 letters on the board so that one tile covers the center star square. The word may be placed horizontally (left to right) or vertically (top to bottom). Score the word including the Double Word Score bonus from the center square. After scoring, draw enough tiles from the bag to return your rack to 7 tiles.
+
+SUBSEQUENT TURNS
+On each turn, a player must do one of the following:
+1. Place a word: play one or more tiles on the board to form a word. Every word formed must connect to the existing tiles on the board. All letters in a row must form a single complete word. A play that creates multiple words (by connecting to tiles in multiple directions) scores all newly formed words simultaneously.
+2. Exchange tiles: place any number of tiles face-down, draw the same number from the bag, then shuffle the returned tiles back into the bag. No score is earned. Only allowed while at least 7 tiles remain in the bag.
+3. Pass: forfeit your turn without playing or exchanging. No score is earned.
+
+VALID WORDS
+All words must appear in the agreed-upon dictionary for the game (Tournament Scrabble uses the Official Scrabble Players Dictionary, OSPD5, or the Official Tournament and Club Word List, OWL/TWL). Proper nouns, abbreviations, prefixes, and suffixes standing alone are not allowed. Foreign words not found in the English dictionary are not allowed.
+
+BLANK TILES
+A blank tile may represent any letter. When played, declare which letter it represents — this designation is permanent and cannot be changed later. Blank tiles score 0 points regardless of which premium square they land on.
+
+SCORING A TURN
+Add up the face value of all tiles in each newly formed word, applying letter premium squares first, then word premium squares. If a tile is placed on a Double Letter square, double that tile's value; if on a Triple Letter square, triple it. Then if any tile in the word covers a Double Word square, double the entire word score; if Triple Word, triple it. If a word covers two Double Word squares, the word is multiplied by 4 (doubled twice). Premium squares only apply on the turn they are first covered — in later turns, a tile already on a premium square scores its face value only.
+
+BINGO
+If a player uses all 7 tiles from their rack in a single turn, they score a 50-point bonus (called a bingo) in addition to the word score. This 50-point bonus is added after all other premium multipliers are applied.
+
+CHALLENGING A WORD
+If a player believes an opponent's word is invalid, they may challenge it before the next player takes their turn. Look up the word in the agreed dictionary. If the word is invalid, the player who played it must take back their tiles and loses their turn. If the word is valid, the challenger loses their next turn (in some house rule variants, there is no penalty for a correct challenge — agree before the game).
+
+END OF GAME
+The game ends when: the tile bag is empty and one player has used all their tiles; or all players pass consecutively twice in a row. When a player uses all their remaining tiles and the bag is empty, they add the sum of all other players' unplayed tiles to their own score, and each other player deducts the value of their unplayed tiles from their own score.
+
+WINNING
+The player with the highest score at the end of the game wins. In the case of a tie, the player who went out first wins.

@@ -28,8 +28,8 @@ Begin your answer by naming the game it comes from, taken from the [Source N —
 # Shown when there is nothing trustworthy to answer from — either retrieval
 # returned nothing, or every chunk was filtered out as too weakly relevant.
 FALLBACK_MESSAGE = (
-    "I couldn't find an answer to that in the loaded rule books (Catan, Clue, "
-    "Codenames, Monopoly, Pandemic, Risk, Ticket to Ride, and Uno). The rules I "
+    "I couldn't find an answer to that in the loaded rule books (Catan, Chess, Clue, "
+    "Codenames, Monopoly, Pandemic, Risk, Scrabble, Ticket to Ride, and Uno). The rules I "
     "have don't appear to cover it. Try rephrasing your question, or name the "
     "specific game you're asking about."
 )

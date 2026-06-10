@@ -1,0 +1,53 @@
+CHESS — OFFICIAL RULES SUMMARY
+
+OVERVIEW
+Chess is a two-player strategy board game played on an 8×8 grid of 64 alternating light and dark squares. One player controls the white pieces, the other controls the black pieces. The goal is to checkmate the opponent's king — to place it under attack with no legal escape. White always moves first.
+
+COMPONENTS
+1 chessboard (8×8 squares, alternating light and dark), 32 pieces total: each player has 1 king, 1 queen, 2 rooks, 2 bishops, 2 knights, and 8 pawns.
+
+SETUP
+Place the board so that each player has a light square in the bottom-right corner. Starting from the a-file (leftmost from White's perspective) the back rank is set up: rook, knight, bishop, queen, king, bishop, knight, rook. The queen always goes on her own color (White queen on a light square, Black queen on a dark square). Pawns fill the second rank in front of the back-rank pieces.
+
+HOW PIECES MOVE
+King: moves exactly one square in any direction (horizontally, vertically, or diagonally). The king may never move to a square that is attacked by an opponent's piece.
+
+Queen: moves any number of squares in any direction (horizontal, vertical, or diagonal). Most powerful piece on the board.
+
+Rook: moves any number of squares horizontally or vertically. Cannot jump over other pieces.
+
+Bishop: moves any number of squares diagonally. Each bishop stays on its starting color for the entire game.
+
+Knight: moves in an L-shape — two squares in one direction and one square perpendicular (or vice versa). The knight is the only piece that can jump over other pieces.
+
+Pawn: moves forward one square, or two squares forward from its starting rank (second rank for White, seventh rank for Black). Captures diagonally one square forward. Cannot move backward.
+
+CAPTURING
+A piece captures by moving to a square occupied by an opponent's piece and removing it from the board. You may not capture your own pieces. Capturing is optional in all cases except when you must escape check.
+
+EN PASSANT
+If a pawn advances two squares from its starting rank and lands beside an opponent's pawn, the opponent may capture it as though it had moved only one square — but only on the very next move. This special capture is called en passant (French: in passing). If the opportunity is not taken immediately, it expires.
+
+PAWN PROMOTION
+When a pawn reaches the opponent's back rank (rank 8 for White, rank 1 for Black), it must immediately be promoted. The player replaces it with a queen, rook, bishop, or knight of their own color. Promotion to a queen is the most common choice. There is no limit to the number of pieces of the same type on the board after promotion.
+
+CASTLING
+Castling is a special move involving the king and a rook that have neither previously moved. The king moves two squares toward the rook, and the rook moves to the square the king crossed. Conditions: neither the king nor the rook involved have moved previously this game; no pieces stand between them; the king is not currently in check; the king does not pass through or land on a square attacked by an opponent's piece. Kingside castling (toward the h-file) and queenside castling (toward the a-file) are both permitted if conditions are met.
+
+CHECK
+When the king is directly threatened by an opponent's piece, it is in check. The player in check must get out of check immediately — either by moving the king, blocking the attack with another piece, or capturing the attacking piece. You cannot make a move that leaves your own king in check.
+
+CHECKMATE
+The game ends immediately when a player's king is in check and there is no legal move that removes the check. The player whose king is checkmated loses. The player who delivered checkmate wins.
+
+STALEMATE
+If it is a player's turn but they have no legal moves AND their king is not in check, the game is a stalemate — a draw. Neither player wins.
+
+OTHER DRAWS
+A draw can also occur by: mutual agreement between players; threefold repetition (the same position occurs three times with the same player to move); the fifty-move rule (50 consecutive moves by each player with no pawn move and no capture); or insufficient material (neither player has enough pieces to force checkmate, e.g. king vs. king, or king and bishop vs. king).
+
+WINNING
+You win by checkmating your opponent's king. You may also win if your opponent resigns — concedes the game voluntarily.
+
+TOUCH-MOVE RULE (OFFICIAL COMPETITION)
+In official play, if you touch one of your own pieces you must move it (if a legal move exists). If you touch an opponent's piece you must capture it (if a legal capture exists). Adjusting pieces without intending to move is allowed only if you announce "I adjust" (or "j'adoube") before touching.

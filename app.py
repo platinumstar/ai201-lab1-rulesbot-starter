@@ -116,11 +116,13 @@ with gr.Blocks(
                     <ul style="font-size:0.85rem; color:#5b21b6; list-style:none;
                                 padding:0; margin:0; line-height:1.8;">
                         <li>🏔️ Catan</li>
+                        <li>♟️ Chess</li>
                         <li>🔍 Clue</li>
                         <li>🎯 Codenames</li>
                         <li>🏦 Monopoly</li>
                         <li>🦠 Pandemic</li>
                         <li>🌍 Risk</li>
+                        <li>🔤 Scrabble</li>
                         <li>🚂 Ticket to Ride</li>
                         <li>🃏 Uno</li>
                     </ul>
